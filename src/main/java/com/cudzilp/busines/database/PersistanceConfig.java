@@ -1,4 +1,4 @@
-package com.cudzilp.config.database;
+package com.cudzilp.busines.database;
 
 import org.springframework.context.annotation.Configuration;
 
